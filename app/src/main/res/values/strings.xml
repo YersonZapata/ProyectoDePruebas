@@ -6,4 +6,20 @@
     <string name="nav_header_subtitle">Paku.lear@paku.com.co</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Configuración</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="colorsH">
+        <item>#330136</item>
+        <item>#5E1742</item>
+        <item>#962E40</item>
+        <item>#C9463D</item>
+        <item>#FF5E35</item>
+        <item>#B61173</item>
+        <item>#E0335E</item>
+        <item>#EF6B30</item>
+        <item>#FF8100</item>
+        <item>#FF9800</item>
+    </string-array>
 </resources>
